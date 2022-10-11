@@ -52,4 +52,3 @@ namespace SchoolManagement.Tests.TestCases
 
     }
 }
-
